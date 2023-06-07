@@ -380,6 +380,10 @@
     .textofootersecciones hr{
         width: 300px;
     }
+    .flecha{
+        bottom: 20px;
+        right: 20px;
+    }
     
     
 }
