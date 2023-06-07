@@ -1,0 +1,385 @@
+@media screen and (max-width: 390px){
+    .cabecerasecciones{
+        position: relative;
+    }
+    .logo img{
+        width: 200px;
+        margin-left: 50px;
+    }
+    .iconossecciones{
+        display: none;
+    }
+    .menu2{
+        position: absolute;
+        top: 30px;
+        left: -100px;
+    }
+    .conticonomenu p{
+        display: none;
+    }
+    .contmenu2{
+        position: absolute;
+        top: 100%;
+        left: 73px;
+    }
+    .contmenu2 a{
+        padding-left: 30px;
+    }
+    .parteform{
+        max-width: 350px;
+    }
+    .parteform form{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin: auto;
+    }
+    .contactoinput{
+        width: 90%;
+        background-color: var(--grisclaro);
+        margin-bottom: 20px;
+        margin-right: 0;
+    }
+    textarea{
+        width: 90%;
+        margin-top: -30px;
+    }
+    .send{
+        width: 90%;
+    }
+    .finalsecciones{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    }
+    .mapasecciones{
+        height: 200px;
+        width: 359px;
+    }
+    .textofootersecciones{
+        max-width: 359px;
+        padding-left: 30px;
+    }
+    .about{
+        padding: 80px 15px;
+        height: 980px;
+    }
+    .imagenabout figure{
+        width: 340px;
+    }
+    .textoabout{
+        text-align: center;
+    }
+    .btnabout{
+        text-align: center;
+    }
+    .ourprices{
+        margin-top: 60px;
+    }
+    .ourprices h1{
+        font-size: 40px;
+    }
+    .ourprices p{
+        width: 350px;
+        margin: auto;
+    }
+    .peaple{
+        margin-top: -40px;
+        padding: 30px 10px;
+    }
+    .peaple h1{
+        font-size: 35px;
+    }
+    .experiencias{
+        margin: auto;
+        border: 2px solid var(--grisclaro);
+        padding: 20px;
+    }
+    .titcomillas h2{
+    font-size: 25px;
+    width: 320px;
+    }
+    .titcomillas i{
+        display: none;
+    }
+    .personas img{
+        margin-top: 15px;
+        margin-left: 110px;
+    }
+    .imguno{
+        display: none;
+    }
+    .imgdos{
+        display: none;
+    }
+    .textoequipo{
+        display: none;
+    }
+    .team{
+        margin-top: 60px;
+    }
+    .elecciongallery{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+    .serviciorecuadro{
+        height: 270px;
+    }
+    .iconoscabecera{
+        display: none;
+    }
+    .telefono{
+        display: none;
+    }
+    .logo{
+        margin-left: 10px;
+    }
+    .cabecera{
+        position: relative;
+    }
+    .contmenu{
+        position: absolute;
+        top: 15px;
+        left: 20px;
+    }
+    .contmenu hr{
+        display: none;
+    }
+    #iconomenu{
+        display: block;
+        font-size: 40px;
+        color: var(--gris);
+        cursor: pointer;
+        background-color: white;
+    }
+    .menu{
+        flex-direction: column;
+        align-items: center;
+        width: 370px;
+        height: 332px;
+        z-index: 10000;
+        margin-top: 20px;
+        box-shadow: #ccc 0px 0px 10px;
+        position: absolute;
+        top: 100%;
+        left: -20px;
+
+    }
+    .menu li{
+        width: 100%;
+        border-bottom: 2px solid ;
+        padding: 20px;
+        background-color: rgba(255, 255, 255, 0.322);
+    }
+    .menu a{
+        text-decoration: none;
+        color: var(--negro);
+        width: 100%;
+        text-align: right;
+        
+    }
+    #opciones{
+        display: none;
+    }
+    .slideform{
+        margin-top: 30px;
+        gap: 25px;
+    }
+    .caption h1{
+        width: 300px;
+        font-size: 60px;
+    }
+    .caption p{
+        margin-left: 0;
+        font-size: 23px;
+    }
+    .caption h2{
+        margin-left: 0;
+        font-size: 30px;
+    }
+    .contvideo{
+        width: 390px;
+    }
+    .contvideo iframe{
+        width: 100%;
+        height: 250px;
+    }
+    .textvideo{
+        margin-top: -60px;
+        height: 400px;
+        width: 370px;
+    }
+    .dias{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: start;
+        gap: 10px;
+    }
+    .btnvideo{
+        margin-bottom: 20px;
+    }
+    .comodidades{
+        margin-top: 40px;
+    }
+    .tituloseccion{
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 20px;
+        margin-bottom: 25px;
+    }
+    .parterecuadros1{
+        justify-content: center;
+        align-items: center;
+        flex-wrap: wrap;
+        gap: 15px;
+    }
+    .numeros{
+        margin-top: 50px;
+        gap: 10px;
+    }
+    .galeria{
+    justify-content: center;
+    align-items: center;
+    gap: 15px;
+    }
+    .galeria figure{
+        width: 100%;
+    }
+    .parteprecios{
+        max-width: 380px;
+        margin-top: 30px;
+    }
+    .prices{
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+        width: 250px;
+        height: 200px;
+        gap: 5px;
+        margin: auto;
+        margin-bottom: 20px;
+    }
+    .prices p{
+        width: 100%;
+        border: 1px solid var(--grisclaro);
+        background-color: var(--grisclaro);
+        padding: 15px 30px;
+        text-align: center;
+        transition: all 0.5s;
+    }
+    .prices p:hover{
+        background-color: var(--morado);
+        border: 1px solid var(--morado);
+        color: white;
+    }
+    .cantidad hr{
+        width: 250px;
+    }
+    .testimonios{
+        text-align: center;
+    }
+    .partetestimonios{
+        margin-top: 40px;
+        max-width: 370px;
+    }
+    .columna{
+        width: 370px;
+        height: 150px;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: -40px;
+    }
+    .carrusel{
+        margin-top: 150px;
+    }
+    .carrusel h1{
+        text-align: center;
+    }
+    .cards{
+        width: 370px;
+        height: 450px;
+        overflow: hidden;
+        margin-left: 0;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-right: 30px;
+    }
+    .cards img{
+        width: 370px;
+        height: 300px;
+    }
+    .cards:hover .textcard{
+        background-color: var(--morado);
+        color: white;
+    }
+    .viewport{
+        width: 370px;
+        height: 450px;
+        overflow: hidden; 
+        position: relative;
+    }
+    .contenedorflechas{
+        width: 370px;
+        position: absolute;
+        top: 200px;
+        left: 0;
+    }
+    .contenedorflechas i{
+        font-size: 25px;
+        color: var(--blanco);
+        background-color: var(--morado);
+        padding: 10px;
+        border-radius: 50% ;
+    }
+    .textcard{
+        text-align: center;
+    }
+    .textcard hr{
+        margin-left: 60px;
+    }
+    .iconoscard{
+        margin-left: 60px;
+    }
+    .mapa iframe{
+        height: 200px;
+    }
+    .final{
+        flex-direction: column;
+    
+    }
+    .suscribete form input{
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    .suscribete{
+        flex-direction: column;
+        gap: 15px;
+    }
+    .contenidomodal{
+        width: 540px;
+        height: 580px;
+        padding: 20px;
+    }
+    .contenidomodal h1{
+        font-size: 25px;
+    }
+    .cerrarmodal{
+        position: absolute;
+        top: -3%;
+        left: 93%;
+    }
+    .textofootersecciones hr{
+        width: 300px;
+    }
+    
+    
+}
