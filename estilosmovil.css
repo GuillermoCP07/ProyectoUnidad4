@@ -18,6 +18,7 @@
         display: none;
     }
     .contmenu2{
+        width: 391px;
         position: absolute;
         top: 100%;
         left: 73px;
@@ -49,6 +50,7 @@
         width: 90%;
     }
     .finalsecciones{
+        border: 2px solid red;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -63,10 +65,10 @@
     }
     .about{
         padding: 80px 15px;
-        height: 980px;
+        height: 1100px;
     }
     .imagenabout figure{
-        width: 340px;
+        width: 330px;
     }
     .textoabout{
         text-align: center;
@@ -96,12 +98,18 @@
         border: 2px solid var(--grisclaro);
         padding: 20px;
     }
+    .titcomillas{
+        width: 320px;
+    }
     .titcomillas h2{
     font-size: 25px;
     width: 320px;
     }
     .titcomillas i{
         display: none;
+    }
+    .personas{
+        width: 300px;
     }
     .personas img{
         margin-top: 15px;
@@ -158,7 +166,7 @@
     .menu{
         flex-direction: column;
         align-items: center;
-        width: 370px;
+        width: 363px;
         height: 332px;
         z-index: 10000;
         margin-top: 20px;
@@ -210,9 +218,10 @@
     .textvideo{
         margin-top: -60px;
         height: 400px;
-        width: 370px;
+        width: 363px;
     }
     .dias{
+        width: 300px;
         display: flex;
         flex-direction: column;
         justify-content: center;
@@ -233,6 +242,8 @@
         margin-bottom: 25px;
     }
     .parterecuadros1{
+        margin: 0;
+        width: 360px;
         justify-content: center;
         align-items: center;
         flex-wrap: wrap;
@@ -383,6 +394,12 @@
     .flecha{
         bottom: 20px;
         right: 20px;
+    }
+    .textoprecios{
+        width: 364px;
+    }
+    .join{
+        width: 350px;
     }
     
     
